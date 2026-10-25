@@ -1,0 +1,18 @@
+{
+    "maison": {
+      "latitude": 45.5582,
+      "longitude": -73.7215,
+      "titre": "Ma maison"
+    },
+    "entrepots": [
+      { "id": 1, "nom": "VoidTech Montréal",       "latitude": 45.5017, "longitude": -73.5673 },
+      { "id": 2, "nom": "VoidTech Laval",           "latitude": 45.6066, "longitude": -73.7124 },
+      { "id": 3, "nom": "VoidTech Longueuil",       "latitude": 45.5312, "longitude": -73.5185 },
+      { "id": 4, "nom": "VoidTech Saint-Jérôme",   "latitude": 45.7806, "longitude": -74.0024 },
+      { "id": 5, "nom": "VoidTech Terrebonne",      "latitude": 45.7003, "longitude": -73.6451 }
+    ],
+    "chemin": [
+      { "latitude": 45.5582, "longitude": -73.7215 },
+      { "latitude": 45.6066, "longitude": -73.7124 }
+    ]
+  }
